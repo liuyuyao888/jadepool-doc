@@ -1,9 +1,9 @@
 | BlockChain  | 最低可用版本| 运维节点版本 | Jadepool 支持版本 |
 | ----------- | ---------- | ---------- | ---------- |
 | BTC         | v0.4.3    |   v0.12.1-bitcore-4   | V0.13.8-beta.0 |
-| Ethereum    | v2.4.7     |   v1.8.27   | V0.13.8-beta.0 |
+| Ethereum    | v1.8.27     |   v1.8.27   | V0.13.8-beta.0 |
 | Eosio       | v1.8.0-rc2 | v1.8.4 | V0.13.8-beta.0 |
-| Cybex       | v0.1.31    |    v0.2.35  | V0.13.8-beta.0 |
+| Cybex       | v0.2.35    |    v0.2.35  | V0.13.8-beta.0 |
 | Neo         | v2.10.2    |   v2.10.3  | V0.13.8-beta.0    |
 | Cosmos      | v1.0.0     |      | V0.13.8-beta.0 |
 | BitcoinCash | v2.0.5     |      | V0.13.8-beta.0 |
